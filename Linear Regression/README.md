@@ -56,6 +56,7 @@ where
 ![alt text](<images/gradiant_descent (slope).jpg>)
 
 **Now, let's break it down:**
+
 **1) θ:** This represents the parameters of the function that we are trying to optimize. In the context of machine learning, θ often represents the weights of a model.
 
 **2) α:** This is the learning rate. It's a small positive number that determines the size of the steps we take during each iteration. Choosing the right learning rate is crucial, as too small a value can make the algorithm slow, while too large a value may cause it to overshoot the minimum.
@@ -68,8 +69,11 @@ where
 **Explanation:**
 
 **1.** We start with an initial guess for `θ`.
+
 **2.** Compute the gradient `∇J(θ)`, which indicates the direction of the steepest increase of the cost function.
+
 **3.** Update θ by moving in the opposite direction of the gradient, scaled by the `learning rate α`.
+
 **4.** Repeat this process until `J(θ)` converges to a minimum.
 
 *In simple terms*, gradient descent is like descending a mountain by taking steps in the steepest downhill direction. The learning rate controls how big each step is, and the process continues until you reach the lowest point (minimum) of the mountain (minimum of the cost function).

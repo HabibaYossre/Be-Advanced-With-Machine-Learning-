@@ -1,6 +1,6 @@
 ## Be Advanced With Machine Learning
 
-Welcome to the "Be Advanced With Machine Learning" repository! This guide provides an in-depth exploration of some of the most important machine learning algorithms, all implemented from scratch. Whether you are a beginner looking to understand the fundamentals or an experienced practitioner aiming to deepen your knowledge, this repository offers valuable insights and hands-on examples.
+Welcome to the "The-Art-of-ML-Algorithms" repository! This guide provides an in-depth exploration of some of the most important machine learning algorithms, all implemented from scratch. Whether you are a beginner looking to understand the fundamentals or an experienced practitioner aiming to deepen your knowledge, this repository offers valuable insights and hands-on examples.
 
 ### What's Inside
 
@@ -24,11 +24,11 @@ Welcome to the "Be Advanced With Machine Learning" repository! This guide provid
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/HabibaYossre/Be-Advanced-With-Machine-Learning.git
+    git clone https://github.com/HabibaYossre/The-Art-of-ML-Algorithms.git
     ```
 2. **Navigate to the Project Directory**:
     ```sh
-    cd Be-Advanced-With-Machine-Learning
+    cd The-Art-of-ML-Algorithms
     ```
 3. **Explore the Notebooks**: Open and run the Jupyter notebooks provided for each algorithm to see the code in action and understand the inner workings.
 
